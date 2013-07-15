@@ -1,0 +1,41 @@
+Diabetes advisor
+Work flow.
+Initial Questions to ask the user:
+	1. What is your name
+	2. What is your gender (M/F)
+	3. Are you Diabetic (Y/N/?)
+
+Menu options
+ 1. Lifestytle 
+ 2. Risk factors
+ 3. Symptoms
+
+Risk Factor questions
+	a. Do you have a family history of Diabetes (Y/N/?).
+	b. Are you currently/recently pregnant?
+	. What is your height- (@KEVIN, maybe like some sort of interactive scale) -accept approximation
+	. What is your weight- (@KEVIN, maybe like some sort of interactive scale) -accept approximations
+	    Calculate BMI (weight/height)
+	
+Lifestyle Questions
+	a. Do you drink alcoholb (Y/N).
+		-if so how often-
+			- atleast once a week
+			- almost ever day
+			- not often
+			- I drink more alcohol than water
+	b. Do you smoke. (Y/N)
+		-if so how much
+			-about a pack of 20 a week
+			-atleast once a day
+			-not often
+	c. How often do you excercise
+		-Daily
+		-Weekly
+		-Atleast once a week
+		-I hardly excercise
+		-I dont excercise at all.
+		
+	 
+	
+
