@@ -13,12 +13,12 @@ Menu options
 Risk Factor questions
 	a. Do you have a family history of Diabetes (Y/N/?).
 	b. Are you currently/recently pregnant?
-	. What is your height- (@KEVIN, maybe like some sort of interactive scale) -accept approximation
-	. What is your weight- (@KEVIN, maybe like some sort of interactive scale) -accept approximations
+	. What is your height- (@KEVIN, maybe like some sort of interactive scale that can be dragged) -
+	. What is your weight- (@KEVIN, maybe like some sort of interactive scale) -
 	    Calculate BMI (weight/height)
 	
 Lifestyle Questions
-	a. Do you drink alcoholb (Y/N).
+	a. Do you drink alcohol (Y/N).
 		-if so how often-
 			- atleast once a week
 			- almost ever day
